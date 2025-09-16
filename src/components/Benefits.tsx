@@ -44,25 +44,25 @@ const Benefits: React.FC = () => {
 
   const testimonials = [
     {
-      name: 'Sarah Johnson',
-      role: 'HR Director, TechCorp',
-      content: 'WorkMate mengubah cara tim kami bekerja. Produktivitas meningkat drastis dan karyawan lebih engaged.',
-      rating: 5,
-      avatar: '👩‍💼'
-    },
-    {
-      name: 'Michael Chen',
-      role: 'CEO, StartupXYZ',
-      content: 'Platform terbaik untuk mengelola tim remote. Fitur-fiturnya lengkap dan mudah digunakan.',
+      name: 'Rio Herlambang',
+      role: 'Data Engineer',
+      content: 'Workmate sangat membantu onboarding karyawan baru seperti saya. Prosesnya jadi lebih cepat dan efisien.',
       rating: 5,
       avatar: '👨‍💼'
     },
     {
-      name: 'Lisa Martinez',
-      role: 'Operations Manager, BigCorp',
-      content: 'ROI yang didapat dari WorkMate sangat menguntungkan. Investasi terbaik untuk tim kami.',
+      name: 'Shanina Eki Prasesti',
+      role: 'Businees Analyst',
+      content: 'Dengan workmate, membantu saya menyelesaikan proses onboarding karyawan baru dengan lebih cepat dan efisien.',
       rating: 5,
       avatar: '👩‍💻'
+    },
+    {
+      name: 'Fachreza Nur Iman',
+      role: 'Supervisor',
+      content: 'Workmate memudahkan saya dalam mengelola tim dan meningkatkan produktivitas kerja secara keseluruhan.',
+      rating: 5,
+      avatar: '👨‍🔧'
     }
   ];
 

@@ -51,7 +51,7 @@ function App() {
           <Hero onLogin={handleLogin} />
           <Features />
           <Benefits />
-          <Pricing onLogin={handleLogin} />
+          {/* <Pricing onLogin={handleLogin} /> */}
           <Contact />
         </main>
 

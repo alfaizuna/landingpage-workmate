@@ -55,12 +55,12 @@ const Navbar: React.FC<NavbarProps> = ({ onLogin }) => {
             >
               Keunggulan
             </button>
-            <button
+            {/* <button
               onClick={() => scrollToSection('pricing')}
               className="text-gray-600 hover:text-red-600 transition-colors font-medium"
             >
               Harga
-            </button>
+            </button> */}
             <button
               onClick={() => scrollToSection('contact')}
               className="text-gray-600 hover:text-red-600 transition-colors font-medium"
