@@ -103,7 +103,7 @@ landing/
 ## 🔗 Integration
 
 Landing page ini terintegrasi dengan aplikasi utama WorkMate melalui:
-- Login redirect ke `http://localhost:5173/login`
+- Login redirect ke `https://workmate.webapz.my.id/login`
 - Consistent branding dan design system
 - Shared assets (logo, colors, fonts)
 

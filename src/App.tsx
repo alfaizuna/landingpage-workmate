@@ -11,7 +11,7 @@ import Footer from './components/Footer';
 function App() {
   const handleLogin = () => {
     // Redirect to the main app login page
-    window.open('http://localhost:5173/login', '_blank');
+    window.open('https://workmate.webapz.my.id/login', '_blank');
   };
 
   return (
