@@ -52,7 +52,7 @@ const Benefits: React.FC = () => {
     },
     {
       name: 'Shanina Eki Prasesti',
-      role: 'Businees Analyst',
+      role: 'Business Analyst',
       content: 'Dengan workmate, membantu saya menyelesaikan proses onboarding karyawan baru dengan lebih cepat dan efisien.',
       rating: 5,
       avatar: '👩‍💻'

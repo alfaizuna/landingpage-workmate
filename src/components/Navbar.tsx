@@ -34,10 +34,12 @@ const Navbar: React.FC<NavbarProps> = ({ onLogin }) => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
-          <div className="flex items-center space-x-2">
-            <div className="w-8 h-8 bg-gradient-to-r from-red-600 to-pink-500 rounded-lg flex items-center justify-center">
-              <span className="text-white font-bold text-sm">W</span>
-            </div>
+          <div className="flex items-center space-x-3">
+            <img 
+              src="/workmatelogo.png" 
+              alt="WorkMate Logo" 
+              className="h-8 w-auto"
+            />
             <span className="text-xl font-bold text-gray-900">WorkMate</span>
           </div>
 
